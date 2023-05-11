@@ -9,3 +9,5 @@
 > Their are more patients with benign(357) tumors than  malignant(212).
 
 > Most Patients with benign tumors have a radius mean that ranges within 11-14 while malignant 15-20. While the perimeter mean for benign tumors ranges from 75-90 and malignant 85-140.
+
+> There are patients that have almost the same radius(11-16) and perimeter(80-105) mean but have benign and malignant tumors.
