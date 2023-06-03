@@ -13,3 +13,5 @@
 > There are patients that have almost the same radius(11-16) and perimeter(80-105) mean but have benign and malignant tumors.
 
 >A random forest model was used for the predictive analysis and after fitting and testing the model, It had an accuracy of 98% which is really good.
+
+>Overall, the classification report indicates that the model performs well in both classes, with high precision, recall, and F1-scores. The model has a precision of 98% which means that it predicted most of the outcomes correctly. In general the model performed well.
